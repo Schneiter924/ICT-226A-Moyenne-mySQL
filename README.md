@@ -1,0 +1,1 @@
+# ICT-226A-moyenne

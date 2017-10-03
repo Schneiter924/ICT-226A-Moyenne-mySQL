@@ -1,0 +1,55 @@
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\bin\Debug\Moyenne.exe.config
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\bin\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\bin\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\Moyenne\Moyenne\obj\Debug\Moyenne.pdb
+E:\Users\rapha\Desktop\Moyenne\Moyenne\bin\Debug\Moyenne.exe.config
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.exe
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.pdb
+E:\Users\rapha\Desktop\Moyenne\Moyenne\bin\Debug\Moyenne.exe
+E:\Users\rapha\Desktop\Moyenne\Moyenne\bin\Debug\Moyenne.pdb
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+E:\Users\rapha\Desktop\Moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe.config
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe.config
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe.config
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.exe
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.pdb
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.exe
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\bin\Debug\Moyenne.pdb
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
