@@ -13,7 +13,7 @@ namespace Moyenne
     
     public partial class frmMoyenne : Form
     {
-        
+        Connection_mySQL bdd = new Connection_mySQL();
         public frmMoyenne()
         {
             InitializeComponent();

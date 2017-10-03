@@ -53,3 +53,17 @@ E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmMoyenne
 E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.frmNote.resources
 E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
 E:\Users\rapha\Desktop\git\ICT-226A-moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\Moyenne.exe.config
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\Moyenne.exe
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\Moyenne.pdb
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\MySql.Data.dll
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\MySql.Data.Entity.dll
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\bin\Debug\MySql.Web.dll
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.frmMoyenne.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.frmNote.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+P:\CPNV-ste-croix\2eme annee\trimestre 1\ICT-226A\classe\ICT-226A-Moyenne-mySQL\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache

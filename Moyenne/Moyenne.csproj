@@ -33,6 +33,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity">
+      <HintPath>..\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>..\MySql.Web.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Connection_mySQL.cs" />
     <Compile Include="Eleves.cs" />
     <Compile Include="frmEleve.cs">
       <SubType>Form</SubType>
